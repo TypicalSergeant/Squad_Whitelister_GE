@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "generate-old-layer-lists": "cd scripts && node convert_to_old_format.js"
+  }
+}
